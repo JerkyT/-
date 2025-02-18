@@ -3,7 +3,6 @@
 
 ## 项目演示 GIF
 
-查看项目的动态演示：
-
-![项目演示](https://github.com/JerkyT/TrackSteel/blob/main/gif/output.gif)
+项目的动态演示（t024）：
+![项目演示](gif/output.gif)
 
