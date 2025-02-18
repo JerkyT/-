@@ -5,5 +5,5 @@
 
 查看项目的动态演示：
 
-![项目演示](assets/gifs/demo.gif)
+![项目演示](gifs/demo.gif)
 
