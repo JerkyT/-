@@ -5,5 +5,5 @@
 
 查看项目的动态演示：
 
-![项目演示](TrackSteel/gif/demo.gif)
+![项目演示](https://github.com/JerkyT/TrackSteel/blob/main/gif/output.gif)
 
